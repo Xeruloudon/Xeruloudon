@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeruloudon&theme=merko)](https://github.com/Xeruloudon/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hydraxys&theme=merko)](https://github.com/Xeruloudon/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hydraxys&theme=merko)](https://github.com/Xeruloudon/)
 
 <!--
