@@ -1,4 +1,3 @@
-![snake gif](https://github.com/Xeruloudon/Xeruloudon/blob/output/github-contribution-grid-snake.gif)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
