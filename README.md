@@ -4,3 +4,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xeruloudon/Xeruloudon/output/github-contribution-grid-snake.svg">
 </picture>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Xeruloudon&theme=python-dark&date_format=j%20M%5B%20Y%5D&card_width=850" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=Xeruloudon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Streak" /></a>
